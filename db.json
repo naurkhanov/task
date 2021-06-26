@@ -1,0 +1,225 @@
+{
+  "organization": [
+    {
+      "name": "Пр тр",
+      "image": "https://testing1.alytics.ru/icons/usersgroup.png",
+      "desk": "Группа. Источников 1",
+      "email": "test@mail.ru",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "1 716",
+          "session": "1 716",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "344.54",
+          "CPA": "0",
+          "proceeds": "677 870",
+          "quantity2": "29",
+          "CPA2": "0",
+          "CrPercent": "1"
+        }
+      ]
+    },
+    {
+      "name": "Яндекс директ",
+      "image": "https://direct.yandex.ru/favicon.ico",
+      "desk": "Платная реклама",
+      "email": "test@mail.ru",
+      "additionally": [
+        {
+          "screenings": "299 571",
+          "click": "843",
+          "session": "1 388",
+          "CtrPercent": "0.28",
+          "priceClick": "35.9",
+          "expenses": "30 266",
+          "quantity": "181.64",
+          "CPA": "16",
+          "proceeds": "423 713",
+          "quantity2": "28",
+          "CPA2": "1",
+          "CrPercent": "3"
+        }
+      ]
+    },
+    {
+      "name": "Органический поиск",
+      "image": "https://testing1.alytics.ru/icons/groups/315b6fb9-cc96-4f34-9e1c-50f5550ce863.png",
+      "desk": "Группа. Источников 7",
+      "email": "test@mail.ru",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "1 370",
+          "session": "1 370",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "332.41",
+          "CPA": "0",
+          "proceeds": "648 828",
+          "quantity2": "14",
+          "CPA2": "0",
+          "CrPercent": "1"
+        }
+      ]
+    },
+    {
+      "name": "Google ads",
+      "image": "https://www.google.com/images/branding/product/1x/ads_24dp.png",
+      "desk": "ГПлатная реклама",
+      "email": "test@gmail.com",
+      "additionally": [
+        {
+          "screenings": "572",
+          "click": "252",
+          "session": "449",
+          "CtrPercent": "3.78",
+          "priceClick": "58.77",
+          "expenses": "14 809",
+          "quantity": "107.13",
+          "CPA": "13",
+          "proceeds": "242 913",
+          "quantity2": "10",
+          "CPA2": "1",
+          "CrPercent": "3"
+        }
+      ]
+    },
+    {
+      "name": "Переходы с сайтов",
+      "image": "https://pbs.twimg.com/profile_images/1021822138964004865/UimQskO__400x400.jpg",
+      "desk": "Группа. Источников 77",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "220",
+          "session": "220",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "55.11",
+          "CPA": "0",
+          "proceeds": "109 487",
+          "quantity2": "4",
+          "CPA2": "0",
+          "CrPercent": "1"
+        }
+      ]
+    },
+    {
+      "name": "email / email ",
+      "image": "https://testing1.alytics.ru/icons/e-mail.ico",
+      "desk": "Группа. Источников 77",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "81",
+          "session": "81",
+          "CtrPercent": "-",
+          "priceClick": "39.51",
+          "expenses": "3200",
+          "quantity": "15.21",
+          "CPA": "21",
+          "proceeds": "28614.14",
+          "quantity2": "2",
+          "CPA2": "1",
+          "CrPercent": "2"
+        }
+      ]
+    },
+    {
+      "name": "videocourse / email",
+      "image": "https://testing1.alytics.ru/images/goal_models/png/model_linear.png",
+      "desk": "",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "2",
+          "session": "2",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "0.19",
+          "CPA": "0",
+          "proceeds": "407.05",
+          "quantity2": "0",
+          "CPA2": "0",
+          "CrPercent": "0"
+        }
+      ]
+    },
+    {
+      "name": "getresponse / email",
+      "image": "https://testing1.alytics.ru/icons/getresponse.ico",
+      "desk": "",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "1",
+          "session": "1",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "0",
+          "CPA": "0",
+          "proceeds": "0",
+          "quantity2": "0",
+          "CPA2": "0",
+          "CrPercent": "0"
+        }
+      ]
+    },
+    {
+      "name": "cm / email",
+      "image": "https://testing1.alytics.ru/icons/cm.ico",
+      "desk": "",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "0",
+          "session": "0",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "0",
+          "CPA": "0",
+          "proceeds": "0",
+          "quantity2": "0",
+          "CPA2": "0",
+          "CrPercent": "0"
+        }
+      ]
+    },
+    {
+      "name": "email / course",
+      "image": "https://testing1.alytics.ru/icons/e-mail.ico",
+      "desk": "",
+      "email": "test@mail.com",
+      "additionally": [
+        {
+          "screenings": "-",
+          "click": "0",
+          "session": "0",
+          "CtrPercent": "-",
+          "priceClick": "0",
+          "expenses": "0",
+          "quantity": "3 100",
+          "CPA": "0",
+          "proceeds": "0",
+          "quantity2": "0",
+          "CPA2": "0",
+          "CrPercent": "0"
+        }
+      ]
+    }
+
+  ]
+}
